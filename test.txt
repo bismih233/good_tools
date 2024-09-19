@@ -1,5 +1,0 @@
-test
-sf
-bismih233
- git config --global user.email "bismih@qq.com"
-  git config --global user.name "bismih233"
